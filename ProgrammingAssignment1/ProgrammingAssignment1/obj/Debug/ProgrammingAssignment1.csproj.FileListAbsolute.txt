@@ -1,0 +1,9 @@
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe.config
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csprojResolveAssemblyReference.cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.planetaryWeights.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.Properties.Resources.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.GenerateResource.Cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.pdb
