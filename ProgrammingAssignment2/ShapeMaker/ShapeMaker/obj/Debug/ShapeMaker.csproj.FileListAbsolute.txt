@@ -1,0 +1,9 @@
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\bin\Debug\ShapeMaker.exe.config
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\obj\Debug\ShapeMaker.csprojResolveAssemblyReference.cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\obj\Debug\ShapeMaker.ShapeMaker.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\obj\Debug\ShapeMaker.Properties.Resources.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\obj\Debug\ShapeMaker.csproj.GenerateResource.Cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\bin\Debug\ShapeMaker.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\bin\Debug\ShapeMaker.pdb
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\obj\Debug\ShapeMaker.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ShapeMaker\ShapeMaker\obj\Debug\ShapeMaker.pdb
