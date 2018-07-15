@@ -1,0 +1,13 @@
+this
+random
+document
+holds
+the
+purpose
+of
+testing
+my
+application
+The first word is application and the last word is testing
+The longest word is application
+The word with the most vowels is Application

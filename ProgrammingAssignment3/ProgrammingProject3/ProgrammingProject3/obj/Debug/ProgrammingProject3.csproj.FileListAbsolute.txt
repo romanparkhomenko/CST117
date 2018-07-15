@@ -1,0 +1,9 @@
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\bin\Debug\ProgrammingProject3.exe.config
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\bin\Debug\ProgrammingProject3.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\bin\Debug\ProgrammingProject3.pdb
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.csprojResolveAssemblyReference.cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.FileProcessor.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.Properties.Resources.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.csproj.GenerateResource.Cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\ProgrammingProject3\ProgrammingProject3\obj\Debug\ProgrammingProject3.pdb
