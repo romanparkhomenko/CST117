@@ -1,0 +1,9 @@
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Russi\Documents\Roman's SchoolWork\CST-117\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
