@@ -1,0 +1,10 @@
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\ProgrammingProject5.csprojResolveAssemblyReference.cache
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\ProgrammingProject5.MainForm.resources
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\CST_117_Project_5.Properties.Resources.resources
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\ProgrammingProject5.ResultsForm.resources
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\ProgrammingProject5.csproj.GenerateResource.Cache
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\CST-117_Project_5.exe
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\obj\Debug\CST-117_Project_5.pdb
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\bin\Debug\CST-117_Project_5.exe.config
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\bin\Debug\CST-117_Project_5.exe
+C:\Users\Russi\Downloads\CST-117-master\CST-117-master\CST-117_Project_5\CST-117_Project_5\bin\Debug\CST-117_Project_5.pdb
